@@ -11,6 +11,8 @@ Created on Fri Apr  3 11:33:19 2020
 
 #check amit's fork
 
+#fork 2 sync issue check
+
 
 import random
 
